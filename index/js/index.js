@@ -97,19 +97,23 @@ window.onload = function(){
         url:'https://liu673cn.github.io/new/mac.htm'
     },{
         id:'#btnZero',
-        tips:'商业翻译合作',
+        tips:'视频解析网站',
+        desc:'open',
+        direction:'top',
         size:'m',
-        url:'#'
+        url:'http://taiyang059.cf/mao1/?url='
     },{
         id:'#btnOne',
         tips:'视频搜索',
+        desc:'open',
+        direction:'top',
         size:'m',
         url:'https://www.dianyinggou.com/'
     },{
         id:'#btnTwo',
-        tips:'视频解析网站',
+        tips:'微博',
         size:'m',
-        url:'http://taiyang059.cf/mao1/?url='
+        url:'#'
     },{
         id:'#btnThree',
         tips:'官方抖音账号',
