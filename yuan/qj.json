@@ -480,7 +480,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"手动解析","type":0,"url":"https://jiyi039.github.io/mao/?url="},
+{"name":"手动解析","type":0,"url":"https://taiyang059.cf/mao/?url="},
 {"name": "293-1","type": 1,"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext": {"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
 {"name":"fuqi","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"左岸2","type":1,"url":"http://106.52.218.221:88/?url="},
