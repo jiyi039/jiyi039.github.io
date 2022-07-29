@@ -102,14 +102,14 @@ window.onload = function(){
         url:'#'
     },{
         id:'#btnOne',
-        tips:'字幕组筹备中',
+        tips:'视频搜索',
         size:'m',
-        url:'#'
+        url:'https://www.dianyinggou.com/'
     },{
         id:'#btnTwo',
-        tips:'官方微博关注',
+        tips:'视频解析网站',
         size:'m',
-        url:'#'
+        url:'http://taiyang059.cf/mao1/?url='
     },{
         id:'#btnThree',
         tips:'官方抖音账号',
