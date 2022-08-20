@@ -29,6 +29,8 @@
 {"key":"csp_蓝光云","name": "🐞蓝光云(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/boxky_1/box/raw/master/0726custom_spider5l3.jar"},
 {"key": "bdys","name": "哔嘀(磁力测试)(SP)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://taiyang059.cf/yuan/etx/Bdys.json"},
 
+ {"key": "quan","name": "quan","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mkk.gotka.top/api.php/v1.vod"},
+
 //{"key": "If101","name": "If101(SP)","type": 3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Ikan","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "Olevod","name": "Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
