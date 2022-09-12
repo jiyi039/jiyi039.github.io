@@ -8,7 +8,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
   "sites":[
-    {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"spider":"https://taiyang059.cf/yuan/jar/77pan.jar;md5;7B65FF61E7B6887F975D9D83909361D5"},
         {
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
