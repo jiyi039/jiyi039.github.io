@@ -20,10 +20,10 @@
 		"searchable": 1,
 		"ext": ""
 	},
-{"key": "T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "T4","name": "腾云驾雾","type": 4,"api": "http://52.78.50.140:50217/vod?rule=腾云驾雾","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "T4","name": "喵喵","type": 4,"api": "http://52.78.50.140:50217/vod?rule=喵喵","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "T4","name": "vip影院","type": 4,"api": "http://52.78.50.140:50217/vod?rule=vip影院","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T4爬虫","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3781469b13074e4cac1e0e7113e4fa20","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "腾云驾雾","name": "腾云驾雾","type": 4,"api": "http://52.78.50.140:50217/vod?rule=腾云驾雾","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "喵喵","name": "喵喵","type": 4,"api": "http://52.78.50.140:50217/vod?rule=喵喵","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "vip影院","name": "vip影院","type": 4,"api": "http://52.78.50.140:50217/vod?rule=vip影院","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {
             "key":"t4public",
