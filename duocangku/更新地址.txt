@@ -1,1 +1,2 @@
 https://github.com/hd9211/Tvbox1
+https://raw.fastgit.org/hd9211/Tvbox1/main/cr.json
