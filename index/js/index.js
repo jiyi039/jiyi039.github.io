@@ -101,7 +101,7 @@ window.onload = function(){
         desc:'open',
         direction:'top',
         size:'m',
-        url:'http://taiyang059.cf/mao1/?url='
+        url:'https://taiyang123.us.kg/mao1/?url='
     },{
         id:'#btnOne',
         tips:'视频搜索',
